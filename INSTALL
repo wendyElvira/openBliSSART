@@ -172,7 +172,7 @@ has not yet been installed.
 1.2 Microsoft Windows
 
 If you want to build the browser GUI, you need Qt for Windows, which you can
-obtain from http://qt.nokia.com/downloads (choose the LGPL license).  You have
+obtain from https://info.qt.io/download-qt-for-application-development (choose the LGPL license).  You have
 to download the open-source framework version for VS2008 (NOT the SDK), as the
 SDK seems to be incompatible with Visual Studio 2008. Anyway, check if the
 "lib" directory contains "*.lib" files, which Visual Studio needs for linking.
